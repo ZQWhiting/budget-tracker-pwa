@@ -37,7 +37,7 @@ Link to example deployed site: [Budget Tracker](https://zqwhiting-budget-tracker
 
 <a name='license'></a>
 ## License
-Licensed under the [MIT](./LICENSE.txt) license.
+Licensed under the [MIT](./LICENSE) license.
 
 <a name='credits'></a>
 ## Credits
